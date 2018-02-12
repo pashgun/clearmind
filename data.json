@@ -1,55 +1,2769 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {"type": "Feature", "id": 0, "geometry": {"type": "Point", "coordinates": [55.831903, 37.411961]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 1, "geometry": {"type": "Point", "coordinates": [55.763338, 37.565466]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 2, "geometry": {"type": "Point", "coordinates": [55.763338, 37.565466]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 3, "geometry": {"type": "Point", "coordinates": [55.744522, 37.616378]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 4, "geometry": {"type": "Point", "coordinates": [55.780898, 37.642889]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 5, "geometry": {"type": "Point", "coordinates": [55.793559, 37.435983]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 6, "geometry": {"type": "Point", "coordinates": [55.800584, 37.675638]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 7, "geometry": {"type": "Point", "coordinates": [55.716733, 37.589988]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 8, "geometry": {"type": "Point", "coordinates": [55.775724, 37.56084]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 9, "geometry": {"type": "Point", "coordinates": [55.822144, 37.433781]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 10, "geometry": {"type": "Point", "coordinates": [55.87417, 37.669838]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 11, "geometry": {"type": "Point", "coordinates": [55.71677, 37.482338]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 12, "geometry": {"type": "Point", "coordinates": [55.78085, 37.75021]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 13, "geometry": {"type": "Point", "coordinates": [55.810906, 37.654142]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 14, "geometry": {"type": "Point", "coordinates": [55.865386, 37.713329]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 15, "geometry": {"type": "Point", "coordinates": [55.847121, 37.525797]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 16, "geometry": {"type": "Point", "coordinates": [55.778655, 37.710743]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 17, "geometry": {"type": "Point", "coordinates": [55.623415, 37.717934]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 18, "geometry": {"type": "Point", "coordinates": [55.863193, 37.737]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 19, "geometry": {"type": "Point", "coordinates": [55.86677, 37.760113]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 20, "geometry": {"type": "Point", "coordinates": [55.698261, 37.730838]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 21, "geometry": {"type": "Point", "coordinates": [55.6338, 37.564769]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 22, "geometry": {"type": "Point", "coordinates": [55.639996, 37.5394]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 23, "geometry": {"type": "Point", "coordinates": [55.69023, 37.405853]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 24, "geometry": {"type": "Point", "coordinates": [55.77597, 37.5129]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 25, "geometry": {"type": "Point", "coordinates": [55.775777, 37.44218]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 26, "geometry": {"type": "Point", "coordinates": [55.811814, 37.440448]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 27, "geometry": {"type": "Point", "coordinates": [55.751841, 37.404853]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 28, "geometry": {"type": "Point", "coordinates": [55.627303, 37.728976]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 29, "geometry": {"type": "Point", "coordinates": [55.816515, 37.597163]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 30, "geometry": {"type": "Point", "coordinates": [55.664352, 37.689397]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 31, "geometry": {"type": "Point", "coordinates": [55.679195, 37.600961]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 32, "geometry": {"type": "Point", "coordinates": [55.673873, 37.658425]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 33, "geometry": {"type": "Point", "coordinates": [55.681006, 37.605126]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 34, "geometry": {"type": "Point", "coordinates": [55.876327, 37.431744]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 35, "geometry": {"type": "Point", "coordinates": [55.843363, 37.778445]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 36, "geometry": {"type": "Point", "coordinates": [55.875445, 37.549348]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 37, "geometry": {"type": "Point", "coordinates": [55.662903, 37.702087]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 38, "geometry": {"type": "Point", "coordinates": [55.746099, 37.434113]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 39, "geometry": {"type": "Point", "coordinates": [55.83866, 37.712326]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 40, "geometry": {"type": "Point", "coordinates": [55.774838, 37.415725]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 41, "geometry": {"type": "Point", "coordinates": [55.871539, 37.630223]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 42, "geometry": {"type": "Point", "coordinates": [55.657037, 37.571271]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 43, "geometry": {"type": "Point", "coordinates": [55.691046, 37.711026]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 44, "geometry": {"type": "Point", "coordinates": [55.803972, 37.65961]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 45, "geometry": {"type": "Point", "coordinates": [55.616448, 37.452759]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 46, "geometry": {"type": "Point", "coordinates": [55.781329, 37.442781]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 47, "geometry": {"type": "Point", "coordinates": [55.844708, 37.74887]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 48, "geometry": {"type": "Point", "coordinates": [55.723123, 37.406067]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}},
-        {"type": "Feature", "id": 49, "geometry": {"type": "Point", "coordinates": [55.858585, 37.48498]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank' href='https://yandex.ru'>Здесь может быть ваша ссылка</a></b></font>", "balloonContentBody": "<p>Ваше имя: <input name='login'></p><p><em>Телефон в формате 2xxx-xxx:</em>  <input></p><p><input type='submit' value='Отправить'></p>", "balloonContentFooter": "<font size=1>Информация предоставлена: </font> <strong>этим балуном</strong>", "clusterCaption": "<strong><s>Еще</s> одна</strong> метка", "hintContent": "<strong>Текст  <s>подсказки</s></strong>"}}
+        [
+  {
+    "type": "Feature",
+    "id": 4539435,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.623636836022,
+        55.858348644476
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539436,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.552540305201,
+        55.897335484752
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539437,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.725173521178,
+        55.602283340896
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539438,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.500852902714,
+        55.798597340373
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539439,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.777293715474,
+        55.7194454508
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539440,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.840495310712,
+        55.738656715169
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539441,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.830060180162,
+        55.699759682519
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539442,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.763547287389,
+        55.72436156956
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539443,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.76900639421,
+        55.817669702965
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539444,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.679255906042,
+        55.727239307495
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539445,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.507068130039,
+        55.598093211434
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539446,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.627458791349,
+        55.848235937686
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539447,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.842066876111,
+        55.775328262205
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539448,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.562026412561,
+        55.507168903396
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539449,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.645021333384,
+        55.890456811952
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539450,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.677196133853,
+        55.88539256095
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539451,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.502687094299,
+        55.599601517495
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539452,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.555990431107,
+        55.563991008006
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539453,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.58635295919,
+        55.644136473712
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539454,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.348200506705,
+        55.834595137617
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539455,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.83723569167,
+        55.714465096059
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539456,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.534737137339,
+        55.798529244408
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539457,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.744433190461,
+        55.708732636713
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539458,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.509555947422,
+        55.751192002447
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539459,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.569590628147,
+        55.577720336092
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539460,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.331172755845,
+        55.497606491074
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539461,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.706121192458,
+        55.803406467823
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539462,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.737758795997,
+        55.814214044774
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539463,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.704265313336,
+        55.704033285638
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539464,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.727430959769,
+        55.709449298499
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539465,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.687162298503,
+        55.859398521696
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539466,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.765630926379,
+        55.693323222691
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539467,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.430773895812,
+        55.670570073343
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539468,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.488096653843,
+        55.889435510969
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539469,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.698130284071,
+        55.811949937123
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539470,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.623034460371,
+        55.868762690748
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539471,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.712894783825,
+        55.881856412653
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539472,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.436292507498,
+        55.678222109802
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539473,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.549859315518,
+        55.727377122699
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539474,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.40063602297,
+        55.832306644109
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539475,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.323186435207,
+        55.63194309946
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539476,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.604958637431,
+        55.57508418405
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539477,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.592310577672,
+        55.568314186984
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539478,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.547429303961,
+        55.807000801442
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539479,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.42637280426,
+        55.726533635183
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539480,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.676293753354,
+        55.852105184958
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539481,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.68431352737,
+        55.716086824125
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539482,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.728445335592,
+        55.730532042137
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539483,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.39620476803,
+        55.715494672011
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539484,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.387126268216,
+        55.812026931895
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539485,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.842285523771,
+        55.767508942909
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539486,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.821205865865,
+        55.771390115362
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539487,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.604019335095,
+        55.689219486022
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539488,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.53642320771,
+        55.654881915483
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539489,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.379629337545,
+        55.844674833561
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539490,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.662528747735,
+        55.821462351281
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539491,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.347506417809,
+        55.509335213702
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539492,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.488581072238,
+        55.734072743877
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539493,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.841665582434,
+        55.779996769091
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539494,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.398231793688,
+        55.831280151611
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539495,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.472239833829,
+        55.576565759076
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539496,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.563406429431,
+        55.854366044499
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539497,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.392020955785,
+        55.792140569319
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539498,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.830089221525,
+        55.746118555004
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539499,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.322838860392,
+        55.486430420701
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539500,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.593294373211,
+        55.889373579295
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539501,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.658673897458,
+        55.72129675667
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539502,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.504903394299,
+        55.665662172802
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539503,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.588435798614,
+        55.907389042515
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539504,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.484294354865,
+        55.884537271265
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539505,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.295262136707,
+        55.455567914278
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539506,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.651331065513,
+        55.732444129682
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539507,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.533993149942,
+        55.590762610728
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539508,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.725192934953,
+        55.716212548629
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539509,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.390840707395,
+        55.713693396262
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539510,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.42164458859,
+        55.388155237
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539511,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.62225233121,
+        55.685864050828
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539512,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.38714097251,
+        55.835458758646
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539513,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.400686067563,
+        55.863964863548
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539514,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.58152836362,
+        55.535806758096
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539515,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.18549776383,
+        55.566316941044
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539516,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.684147790612,
+        55.577671177591
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539517,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.648293221288,
+        55.736749875438
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539518,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.462253204733,
+        55.727201168572
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539519,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.410815771746,
+        55.725589333891
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539520,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.631933263886,
+        55.898447674738
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539521,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.833814841595,
+        55.82503803127
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539522,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.708576853142,
+        55.867594707393
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539523,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.638492032116,
+        55.723309393597
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539524,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.842568648178,
+        55.744847475969
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539525,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.476602651346,
+        55.788891757295
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539526,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.670913532197,
+        55.731913659544
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539527,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.660130286396,
+        55.630920260719
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539528,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.388791806086,
+        55.835168894295
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539529,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.586020153938,
+        55.877262624785
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539530,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.577405183633,
+        55.697915454001
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539531,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.703003158442,
+        55.706519153773
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539532,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.656412766589,
+        55.674206065869
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539533,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.709285579354,
+        55.698039799808
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539534,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.78099402408,
+        55.805000812134
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539535,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.58032946014,
+        55.855655351205
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539536,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.504097064673,
+        55.794714140481
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539537,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.828991563552,
+        55.6893428525
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539538,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.566206939508,
+        55.690804672738
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539539,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.597454400262,
+        55.666310248857
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539540,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.745069237046,
+        55.761199854536
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539541,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.165233581895,
+        55.328611205056
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539542,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.741190774834,
+        55.803560395521
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539543,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.353271175455,
+        55.825984391136
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539544,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.237307407576,
+        55.578730594192
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539545,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.558711882464,
+        55.501879196042
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539546,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.677196133853,
+        55.88539256095
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539547,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.741190774834,
+        55.803560395521
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539548,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.402042327594,
+        55.700633954944
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539549,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.394491936368,
+        55.706537377802
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539550,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.11794753315,
+        55.273968414099
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539551,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.415964385921,
+        55.837559156389
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539552,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.429149101322,
+        55.838575159755
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539553,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.369373857723,
+        55.840315869937
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539554,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.17465994171,
+        55.564347237785
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539555,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.331149510245,
+        55.432856749175
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539556,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.519982381164,
+        55.688595916357
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539557,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.422283151883,
+        55.714517358871
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539558,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.689827792342,
+        55.71680570675
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539559,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.371509062987,
+        55.767258985118
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539560,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.428322699366,
+        55.877157347238
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539561,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.827753875815,
+        55.813532169553
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539562,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.604985542279,
+        55.701196047513
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539563,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.534712474545,
+        55.650574750363
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539564,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.604294797629,
+        55.783603256761
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539565,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.648293221288,
+        55.736749875438
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539566,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.569311091685,
+        55.737562284863
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539567,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.593341638094,
+        55.641532799848
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539568,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.575752040733,
+        55.699284125665
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539569,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.393867619093,
+        55.706701304825
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539570,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.547313836901,
+        55.754654136533
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 4539571,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.702734144245,
+        55.70435344605
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13409149,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.542823370618,
+        55.62001335386
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13532286,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.704242108771,
+        55.636114597229
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13532290,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.542628461535,
+        55.731795463809
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13532292,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.58592863175,
+        55.877089090966
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13532294,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.731057701054,
+        55.613658616437
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13532297,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.341631884592,
+        55.853565481252
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13532301,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.545990577089,
+        55.900812647688
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13532307,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.394075659923,
+        55.834948825205
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13532310,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.640501550071,
+        55.659145392817
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13894329,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.424575255382,
+        55.876121088868
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13894330,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.575520203286,
+        55.512870689928
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 13894342,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.190919486857,
+        55.416055600563
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154623,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.300420991961,
+        55.464275369079
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154627,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.853324154162,
+        55.678307936974
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154628,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.857414099953,
+        55.700964851073
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154629,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.839929958976,
+        55.702863864121
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154630,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.871720142193,
+        55.708609078648
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154633,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.450090949359,
+        55.719303159278
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154635,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.365265577734,
+        55.93926414501
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154643,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.627695935993,
+        55.848258954923
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154644,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.689776446874,
+        55.811684064748
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154645,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.718832801247,
+        55.763337961791
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154646,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.726349613633,
+        55.594298169718
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154647,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.781055956079,
+        55.660710285233
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154648,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.766046309844,
+        55.667640079494
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14154649,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.744321888705,
+        55.708712400352
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155100,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.296688070614,
+        55.492873422222
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155102,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.300420991961,
+        55.464275369079
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155103,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.183615770332,
+        55.972852467352
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155112,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.67597586712,
+        55.883044684484
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155115,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.644932349968,
+        55.89045634284
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155117,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.629896621246,
+        55.88912565499
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155120,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.689535066167,
+        55.786126100127
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155122,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.698384800149,
+        55.811823447815
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155124,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.850564995511,
+        55.711336448813
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155126,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.719024784577,
+        55.666980362657
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155135,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.702885054788,
+        55.704320476067
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155137,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.656454702596,
+        55.674156173976
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155138,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.666922502532,
+        55.688775943647
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155139,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.630371336983,
+        55.593467492101
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155140,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.559466439636,
+        55.649900438462
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155141,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.536451689189,
+        55.656446225739
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155142,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.597322478353,
+        55.665690471537
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155143,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.586285381171,
+        55.778866541331
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155144,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.462452177329,
+        55.864802983312
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155145,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.476288025889,
+        55.844784277823
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155146,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.348137230304,
+        55.834639510425
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155147,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.483372349202,
+        55.731169817803
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155148,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.561035828381,
+        55.752331064112
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 14155149,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.426226420925,
+        55.6628138941
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25747449,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.571916972711,
+        55.501143743623
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25748908,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.576810673664,
+        55.517071898613
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25751810,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.172352310512,
+        55.343147569152
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25754680,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.187041076466,
+        55.323480492403
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25756572,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.594474816263,
+        55.872127022707
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25757894,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.580008483988,
+        55.850286399339
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25760650,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.603106625321,
+        55.793229817142
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25761391,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.677859304673,
+        55.817965632402
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25762384,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.82119585114,
+        55.771380958606
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25765991,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.542727370994,
+        55.61967500652
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25767193,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.758986465659,
+        55.755678456284
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25770047,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.575633510219,
+        55.695328256906
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25775341,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.161303667173,
+        55.987960262008
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25778922,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.705129465231,
+        55.891537900161
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25781036,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.518953634023,
+        55.739809325922
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 25782403,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.712877681365,
+        55.801875097469
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 61425117,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.725183404738,
+        55.602285497277
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 61425404,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.698347061297,
+        55.706621241174
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 61425517,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.352796426892,
+        55.842612343031
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 144586155,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.60297508212,
+        55.685835853886
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 144586156,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.577568416453,
+        55.698175002083
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 144586163,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.291329999544,
+        55.449083130802
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 144586164,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.586631104165,
+        55.768190953497
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 167792333,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.520726849759,
+        55.504327779969
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 167792341,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.507066744092,
+        55.598087229542
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 167792351,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.604933756666,
+        55.575094474457
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 167792387,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.385134128625,
+        55.797568319005
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 167792396,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.411909124792,
+        55.693085858749
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 167792414,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.665144966509,
+        55.750291253061
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 167792432,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.232216987097,
+        55.393941128826
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 167792444,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.257993432444,
+        55.979474751491
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 276155313,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.459173243194,
+        55.867307234092
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 276155322,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.339267765282,
+        55.504212432184
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 276155348,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.711198065696,
+        55.63635659773
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 276155359,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.431830831541,
+        55.750672227957
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 276155454,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.554312219824,
+        55.771686004428
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 276155745,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.651936301192,
+        55.573758200777
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 282478903,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.448435963018,
+        55.688236180267
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 282479101,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.424939842232,
+        55.389910103343
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 282479276,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.555825337263,
+        55.564017506609
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 282479433,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.604473919777,
+        55.783607945725
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 282479738,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.237424982478,
+        55.578878669092
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 282479886,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.394051554676,
+        55.834946451285
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 282479984,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.406028188932,
+        55.832818301395
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 282543185,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.46225042504,
+        55.727360664755
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 282543633,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.484349154135,
+        55.729937537857
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978883,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.706004879112,
+        55.803426723295
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978884,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.737693492268,
+        55.814212232773
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978885,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.769038901244,
+        55.817617769993
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978886,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.744776934702,
+        55.761182850891
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978887,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.510169982717,
+        55.751388884147
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978889,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.549976933099,
+        55.727352994776
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978890,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.419379929421,
+        55.660039317056
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978894,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.451902966846,
+        55.634423567729
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978895,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.597426263997,
+        55.666325626567
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978896,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.503685504719,
+        55.598936142257
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978897,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.569665527931,
+        55.577725981803
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978899,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.382238349357,
+        55.52265883972
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978901,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.33926221261,
+        55.504226687564
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 334978902,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.756180055449,
+        55.693046781474
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 477996106,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.325202118351186,
+        55.49221280398253
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 831771438,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.631346573313,
+        55.889917895943
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 831772010,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.665105900022,
+        55.750344300646
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": 831772230,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.527868600055,
+        55.449956496073
+      ]
+    }
+  }
+]
+
     ]
 }
